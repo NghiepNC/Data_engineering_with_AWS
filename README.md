@@ -1,6 +1,9 @@
 # Data-Engineering-With-AWS
 Resources and projects from Udacity Data Engineering with AWS nano degree programme
 
+=> This repo is based on the repo of authors Lal4Tech and Aymanibrahim . To learn, practice and get certified.
+For instructions and updates, you can go to each section and practice.
+
 ## Projects
 
 ### Data Modelling
