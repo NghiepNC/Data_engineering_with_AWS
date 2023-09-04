@@ -32,11 +32,11 @@ In this project,
 
 ### Automate Data Pipelines
 
-[Data Pipelines with Airflow]()
+[Data Pipelines with Airflow](https://github.com/NghiepNC/Data_engineering_with_AWS/blob/main/4_Automate_Data_Pipelines-Airflow/project/README.md)
 
 In this project,
 
 - Using Airflow to create high grade data pipelines that are dynamic and built from reusable tasks, can be monitored, and allow easy backfills.
 - Create custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on the data as the final step.
 
-[My Certificate DE with AWS](confirm.udacity.com/e/7fb07ad8-fb0f-11ed-8d3f-eb84e45e12cc)
+[My Certificate DE with AWS](https://graduation.udacity.com/confirm/e/7fb07ad8-fb0f-11ed-8d3f-eb84e45e12cc)
