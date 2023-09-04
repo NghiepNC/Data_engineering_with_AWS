@@ -255,5 +255,9 @@ log_data/2018/11/2018-11-13-events.json
 ### sql_queries.py
 - contains all the SQL transformations queries.
 
-
-
+## How to run the pipeline:
+-launch Redshift cluster
+-launch Airflow
+-setup connections
+-run create_tables_dag
+-run process_data_dag
